@@ -1,0 +1,8 @@
+lauda start
+lauda yeh hai x = 10
+lauda yeh hai y = 20
+lauda yeh hai z = 30
+
+ecum this is a comment
+gawk(x+z+y)
+lauda end
